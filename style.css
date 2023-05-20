@@ -1,0 +1,241 @@
+@media screen and (min-width:320px)and (max-width:728px) {
+
+    .back-cover {
+        display: flex;
+        justify-content: center;
+        background-size: cover;
+        min-height: 100vh;
+        padding-top: 160px;
+    }
+
+    .card {
+        font-family: 'Heebo', sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        text-align: center;
+        border-radius: 0px;
+        max-width: 250px;
+        height: 320px;
+        padding: 15px 9px 40px 20px;
+        background: #EEEEEED1;
+        border: solid 0px;
+        opacity: 1;
+    }
+
+    h1 {
+        font-size: 1.4rem;
+        font-weight: bold;
+        color: #071192;
+        text-align: start;
+    }
+
+    p {
+
+        font-size: 0.7rem;
+        text-align: start;
+        margin-bottom: 25px;
+        font-family: sans-serif;
+    }
+
+    /*form*/
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    label {
+        text-align: start;
+        font-size: 0.6rem;
+        font-weight: bolder;
+    }
+
+    input {
+        min-width: 210px;
+        background-color: #FFFFFF;
+        border: solid 3px #071192;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+    }
+
+    button {
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 0.8rem;
+        border: none;
+        margin-top: 20px;
+        height: 30px;
+        width: 100px;
+        background-color: #071192;
+        color: #FFFFFF;
+    }
+}
+
+/*min-729*/
+@media screen and (min-width:729px) {
+
+    .back-cover {
+        display: flex;
+        justify-content: center;
+        background-size: cover;
+        min-height: 100vh;
+        padding-top: 160px;
+    }
+
+    .card {
+        font-family: 'Heebo', sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        text-align: center;
+        border-radius: 0px;
+        max-width: 325px;
+        height: 360px;
+        padding: 15px 30px 40px 20px;
+        background: #EEEEEED1;
+        border: solid 0px;
+        opacity: 1;
+        margin-left: 400px;
+    }
+
+    h1 {
+        font-size: 1.4rem;
+        font-weight: bold;
+        color: #071192;
+        text-align: start;
+    }
+
+    p {
+
+        font-size: 0.7rem;
+        text-align: start;
+        margin-bottom: 25px;
+        font-family: sans-serif;
+    }
+
+    /*form*/
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    label {
+        text-align: start;
+        font-size: 0.6rem;
+        font-weight: bolder;
+    }
+
+    input {
+        min-width: 250px;
+        background-color: #FFFFFF;
+        border: solid 3px #071192;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+    }
+
+    button {
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 0.8rem;
+        border: none;
+        margin-top: 20px;
+        height: 30px;
+        width: 100px;
+        background-color: #071192;
+        color: #FFFFFF;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+/*
+.card {
+    font-family: 'Heebo', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    border-radius: 0px;
+    max-width: 325px;
+    height: 360px;
+    padding: 15px 30px 40px 20px;
+    background: #EEEEEED1;
+    border: solid 0px;
+    opacity: 1;
+}
+
+.back-cover {
+    background-size: cover;
+    min-height: 100vh;
+    padding-top: 160px;
+    padding-right: 170px;
+}
+
+h1 {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #071192;
+    text-align: start;
+}
+
+p {
+
+    font-size: 0.7rem;
+    text-align: start;
+    margin-bottom: 25px;
+    font-family: sans-serif;
+}
+
+/*form*/
+/*
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+label {
+    text-align: start;
+    font-size: 0.6rem;
+    font-weight: bolder;
+}
+
+input {
+    min-width: 250px;
+    background-color: #FFFFFF;
+    border: solid 3px #071192;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+button {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 0.8rem;
+    border: none;
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    background-color: #071192;
+    color: #FFFFFF;
+}
